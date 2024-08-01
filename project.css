@@ -1,0 +1,303 @@
+.box{
+    height: 270px;
+    width: 270px;
+    color: white;
+    background-color: rgb(0,131,116);
+    border-radius: 10px;
+}
+
+.box-container{
+    position: relative;
+    margin-top: -160px;
+}
+
+.Impact{
+    height: 600px;
+}
+@media screen and (max-width: 576px) {
+    .Impact{
+        height: 1800px;
+    }
+    .box-container{
+        position: relative;
+        margin-top: -1100px;
+    }
+
+}
+.a{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+}
+.b{
+    text-align: center;
+    font-size: 70px;
+    margin-top: -30px;
+    color: rgb(0,131,116);
+}
+.c{
+    color: rgb(17,16,16);
+    text-align: center;
+    font-size: 17px;
+}
+.img-fluid{
+    border-radius: 20px;
+}
+.size{
+    size: 40px;
+    font-size: 40px;
+}
+.op{
+    opacity: 0.5;
+}
+.img-fluid{
+    border-radius: 20px;
+    width: 1500px;
+}
+.about{
+    text-align: center;
+    color: black;
+}
+.pic{
+    border-radius: 200px;
+    width: 80px;
+    height: 80px;
+    margin-top: +10px;
+    margin-left: 10px;
+}
+.star{
+    text-align: left;
+    margin-top: -10px;
+    color: yellow;
+    font-size: 20px;
+}
+.op{
+    opacity: 0.5;
+}
+.as{
+    text-align: center;
+    color: black;
+}
+.portfolio{
+    text-align: center;
+    color: black;
+}
+.product{
+    text-align: center;
+}
+.product:hover{
+    color: rgb(0,131,116);
+}
+.ads{
+    transform: scale(1);
+    transition: 0.2s ease-in;
+}
+.ads:hover{
+    transform: scale(1.1);
+}
+.team{
+    text-align: center;
+    color: black;
+}
+.radio{
+    border-radius: 20px;
+    width: 250px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+.three{
+    text-align: center;
+}
+.four{
+    text-align: center;
+}
+.five{
+    text-align: center;
+}
+.cc{
+    background-image: url("https://bootstrapmade.com/demo/templates/Impact/assets/img/cta-bg.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    height: 90vh;
+}
+.butt{
+    background-color: transparent;
+    border: thin solid aliceblue;
+    color: aliceblue;
+    padding: 10px;
+}
+.butt:hover{
+    background-color: rgb(0,118,104);
+    border: none;
+}
+.heading{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+.dash{
+    text-align: center;
+    font-size: 50px;
+    margin-top: -30px;
+    color: rgb(0,131,116);
+}
+.para{
+    color: rgb(17,16,16);
+    text-align: center;
+}
+
+.ico2{
+    border-radius: 30px;
+    margin-left: 20px;
+    color: silver;
+    font-size: 20px;
+    border: 2px solid;
+    padding: 5px 10px;
+}
+.ico2:hover{
+    border-radius: 30px;
+    color: rgb(0,131,116);
+    background-color: black;
+}
+
+.box5{
+    width: 300px;
+    height: 550px;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 80px;
+    padding: 30px;
+}
+.box6{
+    width: 300px;
+    height: 550px;
+    border-radius: 10px;
+    /* margin-left: 10px; */
+    margin-top: -40px;
+    margin-right: -10px;
+    border: 5px solid rgb(0,131,116);
+}
+.pricingemo{
+    padding: 10px 15px;
+    border-radius: 60px;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(0,131,116);
+}
+.buto{
+    border-color: white;
+    border-radius: 200px;
+    width: 150px;
+    height: 50px;
+    margin-left: 20px;
+}
+.buto:hover{
+    background-color: rgb(0,131,116);
+}
+.butoo{
+    border-color: white;
+    border-radius: 200px;
+    width: 150px;
+    height: 50px;
+    margin-left: 70px;
+}
+.butoo:hover{
+    background-color: rgb(0,131,116);
+}
+.maria{
+    border-radius: 400px;
+    width: 50px;
+    height: 50px;
+    margin-top: +7px;
+    /* margin-left: -240px; */
+}
+.allisa{
+    border-radius: 400px;
+    width: 50px;
+    height: 50px;
+    margin-top: +5px;
+    /* margin-left: -240px; */
+}
+.mark{
+    border-radius: 400px;
+    width: 50px;
+    height: 50px;
+    margin-top: +5px;
+    /* margin-left: -240px; */
+}
+.box1{
+    width: 350px;
+    height: 430px;
+    padding: 10px;
+    background-color: rgb(0,131,116);
+}
+.boxes{
+    width: 300px;
+    height: 90px;
+    margin-left: 15px;
+    margin-top: 10px;
+    background-color: rgb(26,144,130);
+}
+.ico{
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+    padding: 5px 10px;
+    background-color: #008372;
+    border-radius: 50px;
+}
+.ico:hover{
+    color: rgb(0,131,116);
+    background-color: white;
+}
+.top{
+    margin-left: 70px;
+    margin-top: -40px;
+}
+.tops{
+    margin-top: -20px;
+}
+.butss{
+    border-radius: 300px;
+    padding: 10px;
+    background-color: rgb(0,131,116);
+    margin-top: +30px;
+}
+.butss:hover{
+    opacity: 0.7;
+}
+.suu{
+    border-radius: 30px;
+    margin-left: 20px;
+    color: silver;
+    font-size: 20px;
+    border: 2px solid;
+    padding: 5px 10px;
+}
+.suu:hover{
+    border-radius: 30px;
+    color: white;
+    background-color: rgb(0,131,116);
+}
+.suu2{
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+    padding: 5px 10px;
+    background-color: #008372;
+    border-radius: 50px;
+}
+.suu2:hover{
+    color: rgb(0,131,116);
+    background-color: white;
+}
+
+
+
+
+
+
+
